@@ -1,0 +1,15 @@
+{
+  "name": "AELE MACHINERY",
+  "short_name": "AELE",
+  "theme_color": "#003366",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/images/aele-pipe-welding-machine-1200mm.webp",
+      "sizes": "800x600",
+      "type": "image/webp"
+    }
+  ]
+}
